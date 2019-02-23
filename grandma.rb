@@ -7,7 +7,8 @@ def speak_to_grandma(phrase)
   end
 end
 
-
+ if speak_to_grandma(phrase) == "I LOVE YOU GRANDMA!"
+   return "I LOVE YOU TOO PUMPKIN!"
 
 
 # Write a speak_to_grandma method.
